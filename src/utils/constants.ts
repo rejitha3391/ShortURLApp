@@ -1,0 +1,2 @@
+export const AUTH_TOKEN =
+  'QAih0LdGOSazdW9PRhAS7ntkEUBe3jUCNxBOTMn269fHSb5ZI4cAISgKS1sf';
